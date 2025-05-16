@@ -15,13 +15,13 @@ This lab outlines the prerequisites and installation of the open-source help des
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Windows App
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
+- Mac
 <h2>List of Prerequisites</h2>
 
 - Enable Internet Information Services (IIS)
