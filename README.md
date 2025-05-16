@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, Prerequisites and Installation](https://youtu.be/hDPEtOzDSPY)
+- ### [YouTube: How To Configure osTicket, Prerequisites and Installation](https://www.youtube.com/watch?v=hDPEtOzDSPY)
 
 
 
@@ -32,10 +32,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/Enable%20ISS%20(Lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GHNUHGr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/ISS%20complete%20(Lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oGl7432.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After I created my Azure Virtual Machine Windows 10, 4 vCPUs and named it 'osticket-vm'. I Logged into the VM with Remote Desktop. Within the VM (osticket-vm), I downloaded the osTicket-Installation-Files.zip and unzip it onto my desktop. I am going to use the files in this folder to install osTicket and some of the dependencies. I went ahead and Installed / Enabled IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI.) Checked by checking the local host, 127.0.0.1 to loot back.
@@ -43,7 +43,7 @@ After I created my Azure Virtual Machine Windows 10, 4 vCPUs and named it 'ostic
 <br />
 
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/Web%20Platform%20install%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/52eS6Pr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, I installed PHP Manager for IIS, Rewrite module, PHP 7.3.8, VC_redist.x86.exe
@@ -51,16 +51,16 @@ From the “osTicket-Installation-Files” folder, I installed PHP Manager for I
 <br />
 
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/My%20SQl%20setup%20Typical%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0Ks09Rd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/Standard%20Configuration%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fwnz4i8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/Root%20password%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zhhiJds.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/Os%20ticket%20installer.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mQQgNUz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install my SQL, Typical setup, Launch configuration WIzard (after install), Standard Configuration, Setup Root Password. What this does is installs a database for this computer (osticket). 
@@ -68,13 +68,13 @@ Install my SQL, Typical setup, Launch configuration WIzard (after install), Stan
 <br />
 
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/configuring%20the%20osticket%20php%20manager%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VLRRjA1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/Assisging%20permissions%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4t1mHDX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/heidi%20sql%20server%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h0Sv9wR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/OOZVlwc.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
