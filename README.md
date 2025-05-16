@@ -8,8 +8,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, Prerequisites and Installation](https://youtu.be/ds_TJw0amg4)
-<h2>Video Demonstration</h2>
+- ### [YouTube: How To Configure osTicket, Prerequisites and Installation](https://youtu.be/hDPEtOzDSPY)
+
 
 
 <h2>Environments and Technologies Used</h2>
@@ -77,7 +77,7 @@ Install my SQL, Typical setup, Launch configuration WIzard (after install), Stan
 <img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/heidi%20sql%20server%20(lab%203).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/kleeloy/osticket-prereqs/blob/main/Diagrams/osticket%20successfully%20installed%20(lab3).png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OOZVlwc.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Back to IIS, sites -> Default -> osTicket, Double-click PHP Manager, Clicked the Enable or disable the following extensions:
